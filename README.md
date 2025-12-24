@@ -221,3 +221,15 @@ The results page has been opened in your browser. Here's the summary:
 - Total duration: ~4 minutes
 
 Click "learn why" in the top-right corner of the results page to see the full absurdly detailed investigation log.
+
+## Screenshots
+
+![Investigation Report](images/isitchristmas1.png)
+
+![NTP Time Verification](images/isitchristmas2.png)
+
+![Christmas Date Research](images/isitchristmas3.png)
+
+![Definition Analysis](images/isitchristmas4.png)
+
+![Final Verdict](images/isitchristmas5.png)
